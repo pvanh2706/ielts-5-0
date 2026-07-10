@@ -7,7 +7,7 @@
 
 | # | Lỗi | Ví dụ SAI → ĐÚNG | Giải thích ngắn | Số lần mắc | Lần cuối mắc |
 |---|-----|------------------|-----------------|-----------|--------------|
-| 1 | Quên dùng quá khứ trong câu phủ định dù có dấu hiệu quá khứ (yesterday, last night...) | We ~~don't eat~~ breakfast yesterday → We **didn't eat** breakfast yesterday | Phủ định quá khứ = didn't + V nguyên mẫu; "did" đã gánh phần quá khứ | 1 | 2026-07-06 (buổi 1) |
+| 1 | Quên dùng quá khứ trong câu phủ định dù có dấu hiệu quá khứ (yesterday, last night...) | I ~~do not see~~ him last week → I **did not see** him last week | Thợ vác tem phải vác đúng tem QUÁ KHỨ → "did", không phải "do" (đang vác tem hiện tại) | 2 | 2026-07-10 (buổi 2) |
 
 ## Đã sửa được ✅
 
