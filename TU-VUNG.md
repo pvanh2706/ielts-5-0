@@ -17,3 +17,7 @@
 | spell | động từ | đánh vần | Can you **spell** your name, please? | kỹ năng sống còn của Listening Part 1 |
 | agree | động từ | đồng ý | I **agree** with you. | ⚠️ là ĐỘNG TỪ — không nói ~~I am agree~~ (bài 04) |
 | tired | tính từ | mệt | I am **tired** now. | tính từ nên cần be đi kèm (bài 04) |
+| hungry | tính từ | đói | I am **hungry** now. | tính từ nên cần be, giống tired (kiểm tra buổi 3) |
+| breakfast | danh từ | bữa sáng | She did not eat **breakfast** yesterday morning. | kiểm tra buổi 3 |
+| swim | động từ | bơi | She can **swim** very well. | sau can thì giữ dạng gốc (kiểm tra buổi 3) |
+| visit | động từ | thăm, ghé thăm | Did he **visit** you last week? | quá khứ có quy tắc: visit**ed** (kiểm tra buổi 3) |

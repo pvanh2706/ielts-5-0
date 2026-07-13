@@ -26,7 +26,32 @@ Nói cách khác: **trong câu tiếng Anh, động từ chính là cái đồng
 | every day / every morning, usually, always | Hiện tại đơn | dạng gốc; riêng ngôi 3 số ít (he/she/it, my father...) thêm **-s/-es** |
 | yesterday, last night / last week, ... ago | Quá khứ đơn | thêm **-ed** (với động từ có quy tắc) |
 
-## 🤔 Ngẫm (trả lời bằng lời của bạn)
+## 📜 Đọc thêm — Vì sao hiện tại chỉ ngôi 3 mới thêm -s, còn quá khứ thì ai cũng chia như nhau?
+
+*(Viết thêm sau câu hỏi của bạn ở buổi 3. Không bắt buộc — đọc để thấy cái đuôi -s "vô lý" kia thật ra là một di tích.)*
+
+Quan sát của bạn rất tinh, và đây là lời giải: động từ tiếng Anh cổ từng đeo **HAI loại thông tin** cùng lúc:
+
+1. **Con tem thời gian** — hiện tại hay quá khứ (cái bạn đã học).
+2. **Huy hiệu chủ ngữ** — đuôi riêng cho TỪNG ngôi: tôi một đuôi, bạn một đuôi, anh ấy một đuôi, chúng tôi một đuôi... Ở CẢ hiện tại LẪN quá khứ. (Tiếng Đức, tiếng Pháp ngày nay vẫn y như vậy — học một động từ phải thuộc cả bảng chia.)
+
+Rồi cuộc "rụng đuôi" vĩ đại xảy ra (chính là biến cố trong phần đọc thêm của bài 03). Hai loại thông tin chịu số phận khác nhau:
+
+- **Huy hiệu chủ ngữ → rụng gần hết.** Vì nó THỪA: trật tự từ đã cố định, chủ ngữ đứng sờ sờ ngay trước động từ — ai làm thì nhìn là biết, đâu cần động từ nhắc lại. Thông tin thừa thì bị đào thải.
+- **Con tem thời gian → phải ở lại.** Vì trong câu không có bộ phận nào khác đảm nhiệm việc chỉ thời gian (tiếng Anh không có "đã/sẽ" bắt buộc như tiếng Việt). Vứt tem đi là câu mù thời gian.
+
+**Đuôi -s ngôi 3 hiện tại chính là NGƯỜI SỐNG SÓT CUỐI CÙNG của hệ huy hiệu chủ ngữ.** Nó không phải luật được "thêm vào" cho ngôi 3 — nó là mảnh duy nhất CHƯA KỊP RỤNG của cả một bảng chia từng rất rậm rạp. Ngôi 3 không có gì đặc biệt về nghĩa cả, nên đừng tìm logic "vì sao anh ấy phải khác" — không có đâu, chỉ có lịch sử thôi.
+
+Bức tranh sau cuộc rụng đuôi:
+
+| | Tem thời gian | Huy hiệu chủ ngữ còn sót |
+|---|---|---|
+| Động từ thường, hiện tại | dạng gốc | **-s/-es ngôi 3** (kẻ sống sót cuối cùng) |
+| Động từ thường, quá khứ | -ed / biến hình | rụng sạch → ai cũng như ai |
+| Modal (will, can...) | tự nó là tem | rụng sạch từ rất lâu → không bao giờ -s |
+| **Be** | am/is/are, was/were | giữ NHIỀU nhất — kể cả quá khứ vẫn chia **was/were** theo chủ ngữ |
+
+Để ý dòng cuối: **quá khứ "không quan tâm chủ ngữ" có đúng MỘT ngoại lệ — chính là be** (I/he **was** nhưng you/we/they **were**), và bạn đã dùng đúng nó rồi. Vì sao be giữ được? Vẫn là "quý tộc cổ" của bài 03–04: từ dùng nhiều nhất thì dạng cổ không ai quên nổi. Cả ba câu chuyện lịch sử bạn đã hỏi (thuê do, will/can không đổi hình, đuôi -s ngôi 3) hóa ra là **một câu chuyện duy nhất**: tiếng Anh rụng đuôi, trật tự từ lên ngôi, và vài quý tộc cổ giữ lại đặc quyền.
 
 1. Vì sao người Việt rất hay viết *"Yesterday I play football"*? (Gợi ý: trong câu tiếng Việt, "bộ phận" nào lo việc chỉ thời gian?)
 2. Câu *"I eat pho"* và *"I ate pho"* — không cần từ chỉ thời gian nào, bạn vẫn biết câu nào là chuyện đã qua. Nhờ đâu?

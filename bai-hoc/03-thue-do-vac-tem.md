@@ -25,6 +25,27 @@ Vì "do" đã vác tem, **động từ chính trả về dạng gốc** (đúng 
 **Ngoại lệ duy nhất — "to be":** be đủ mạnh để tự cõng "not" và tự đảo câu hỏi, nên không bao giờ thuê do:
 *He **is not** a student.* / ***Are** you tired?* (không phải ~~"He doesn't is"~~ / ~~"Do you are tired?"~~)
 
+## 📜 Đọc thêm — Vì sao phải thuê "do" cho loằng ngoằng vậy? (lịch sử thật)
+
+*(Phần này viết thêm sau câu hỏi của bạn. Không bắt buộc, đọc cho hiểu gốc rễ — và để thấy luật này không hề tùy tiện.)*
+
+**Ngày xưa tiếng Anh KHÔNG loằng ngoằng thế này.** Thời Shakespeare (~năm 1600) trở về trước, người Anh nói y như trực giác của bạn:
+
+- Phủ định: *I know **not**.* — "not" bám thẳng sau động từ thường.
+- Câu hỏi: ***Saw** you my brother?* — đảo thẳng động từ thường lên đầu.
+
+Gọn hơn hẳn, đúng không? Vậy sao lại đổi? Vì một biến cố lớn: **tiếng Anh rụng gần hết đuôi từ**. Tiếng Anh cổ vốn có hệ đuôi gắn vào danh từ để báo "ai là chủ, ai là tân ngữ", nên xáo trật tự từ thoải mái vẫn hiểu. Khi đuôi rụng hết, **trật tự Chủ ngữ – Động từ – Tân ngữ trở thành cách DUY NHẤT để biết ai làm gì cho ai** — giống hệt tiếng Việt: *"chó cắn người"* khác *"người cắn chó"* chỉ nhờ trật tự.
+
+Khi trật tự từ thành xương sống của câu, việc lôi động từ chính ra khỏi chỗ (đảo lên đầu) hay chèn "not" vào sau nó bắt đầu gây rối. Trong khi đó, các câu có modal sẵn lại cho thấy một mô hình đẹp hơn: *"**Can** you **swim**?"* — chỉ từ ngữ pháp bé tí di chuyển, còn **động từ mang nghĩa đứng yên tại chỗ**. Người nói thích mô hình này và dùng lan dần ra mọi câu (từ khoảng thế kỷ 15 đến 18): **động từ nghĩa không bao giờ di chuyển; mọi trò nhào lộn ngữ pháp — đảo, cõng not, vác tem — giao cho từ đứng đầu chuỗi.** Câu nào không có sẵn từ chuyên trách? Thuê anh vô nghĩa "do" vào đứng đó. Thời Shakespeare hai kiểu còn sống chung — ông viết cả *"I know not"* lẫn *"I do not know"* — rồi kiểu mới thắng hẳn.
+
+Vì sao kiểu "loằng ngoằng" lại thắng? Vì nó trả công xứng đáng:
+
+1. **Khối nghĩa không bao giờ vỡ:** *You saw him* → *Did you see him?* — cụm "you – see – him" vẫn nguyên trật tự, chỉ thêm cái mũ "Did" phía trước.
+2. **Người nghe biết ngay từ TỪ ĐẦU TIÊN:** nghe *"Did..."* là biết ngay đây-là-câu-hỏi và ở-thì-quá-khứ, trước cả khi nghe động từ. Rất lợi cho Listening!
+3. **Quà riêng cho người Việt:** *I did **not see** her* — "not" đứng TRƯỚC động từ nghĩa, giống hệt *"tôi KHÔNG thấy cô ấy"*. Kiểu cổ *"I saw not her"* mới là ngược với tiếng Việt.
+
+**Và ngoại lệ "be" cũng có lời giải:** be là "quý tộc cổ" — thông dụng đến mức dân không nỡ đổi cách dùng, nên nó **giữ nguyên đặc quyền thời xưa**: tự đảo, tự cõng not, không thuê ai. Ngoại lệ này không phải luật tùy tiện, mà là một di tích lịch sử còn sót lại.
+
 ## 🤔 Ngẫm
 
 1. Vì sao *"She goes"* không cần "do" mà *"She does not go"* lại cần? (Gợi ý: "not" cần chỗ bám.)

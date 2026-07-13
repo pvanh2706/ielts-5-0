@@ -41,6 +41,12 @@ Nhìn cột tiếng Việt: bạn vốn đã chọn từ theo nghĩa như vậy 
 - **will** = "sẽ", **can** = "có thể" — chúng CÓ nghĩa thật. Khi xuất hiện, chúng đứng đầu chuỗi động từ nên **con tem chuyển sang chúng**, động từ phía sau về dạng gốc (bài 02).
 - **do** thì khác hẳn: **không có nghĩa gì** — nó là người vác tem THUÊ, chỉ được gọi vào khi phủ định hoặc đặt câu hỏi mà câu chưa có trợ động từ sẵn (bài 03). Câu khẳng định bình thường không có "do".
 
+⚠️ **will và can KHÔNG BAO GIỜ đổi hình — với mọi chủ ngữ, mọi lúc.** Đừng "chia" chúng như động từ thường:
+- *She **can** swim.* ✅ — không phải ~~She cans swim~~ ❌ (dù chủ ngữ là she/he/it cũng KHÔNG thêm -s)
+- *I **will** call you tomorrow.* ✅ — will đã xong nhiệm vụ, không cần chia gì thêm.
+
+Vì sao? Nhớ lại bài 01: "chia động từ" thực chất là **in con tem thì lên từ** (work → work**s**, work → work**ed**). Nhưng will và can **bản thân nó ĐÃ LÀ con tem**: will = tem "tương lai", can = tem "khả năng". Con tem thì không cần đeo thêm tem nữa — in tem lên tem là vô nghĩa. Còn đuôi -s của ngôi 3 chỉ dành cho động từ thường đeo tem hiện tại; will/can đứng ngoài luật đó hoàn toàn.
+
 ⚠️ Đừng nhầm với "do" động từ thường nghĩa là "làm": *I **do** my homework every day.* Hai chữ "do" này trùng tên nhưng khác vai — một người là động từ chính có nghĩa, một người là thợ vác tem không nghĩa.
 
 ### Phần 3 — Tổng kết: 3 "họ" từ đứng trong chuỗi động từ
@@ -50,6 +56,36 @@ Nhìn cột tiếng Việt: bạn vốn đã chọn từ theo nghĩa như vậy 
 | Động từ thường | eat, go, work, like... | Có (hành động) | Phải **thuê do** vác tem |
 | Be | am, is, are, was, were | Có (là / ở / thế nào) | **Tự cõng** not, tự đảo — không thuê ai |
 | Trợ động từ | will, can (và do đi thuê) | will = sẽ, can = có thể, do = không nghĩa | Tự cõng not, tự đảo |
+
+### Phần 4 (mở rộng) — Vì sao gọi là "TRỢ động từ", và vì sao be được tách riêng?
+
+*(Phần này viết thêm sau câu hỏi của bạn ở buổi 3. Đọc sau khi đã vững Phần 1–3.)*
+
+**"Trợ" nghĩa là GIÚP.** Trợ động từ là từ đứng **đầu chuỗi động từ**, giúp động từ chính những việc mà tự nó không nói được. Có 2 kiểu giúp:
+
+- **Giúp về NGHĨA:** will thêm ý "sẽ", can thêm ý "có thể" — động từ "eat" một mình không nói được các ý đó. Đúng như bạn đoán: chúng **bổ sung ý nghĩa cho động từ**.
+- **Giúp về NGỮ PHÁP (không thêm nghĩa):** do/does/did — thợ vác tem thuê, chỉ giúp câu phủ định/câu hỏi đứng vững, chẳng thêm ý gì.
+
+Ngoài will, can, do còn ai nữa? Họ modal (kiểu will/can — có nghĩa thật) còn mấy anh em bạn sẽ dùng nhiều ở band 5:
+
+| Trợ động từ | Nghĩa | Ví dụ |
+|---|---|---|
+| must | phải | You **must** do your homework. |
+| should | nên | You **should** sleep early. |
+| may / might | có lẽ, có thể (không chắc) | It **may** rain tomorrow. |
+| would / could | dạng quá khứ của will / can | I **could** swim when I was five. (hồi 5 tuổi tôi biết bơi) |
+
+Tất cả đều theo đúng luật đã học: **tự nó là con tem** (không thêm -s, không -ed), động từ sau nó về dạng gốc, tự cõng not, tự đảo khi hỏi. Học một luật, dùng cho cả họ. *(Còn have/has và be còn một vai trợ động từ nữa trong các thì "đang..." và "đã... rồi" — chưa học, gặp sau sẽ nối vào đây.)*
+
+**Vậy vì sao be không xếp vào trợ động từ?** Vì phân loại từ phải dựa trên **HÀNH VI**, không dựa trên nhãn. Đặt 3 câu hỏi cho từng họ:
+
+| Câu hỏi kiểm tra | Động từ thường (eat, like) | **Be** (am/is/are/was/were) | Modal (will, can, must) | Do (thợ thuê) |
+|---|---|---|---|---|
+| Có nghĩa riêng không? | ✅ (hành động) | ✅ (là / ở / thế nào) | ✅ (sẽ / có thể / phải) | ❌ |
+| Đứng MỘT MÌNH làm động từ duy nhất của câu được không? | ✅ *I eat.* | ✅ *She is tired.* | ❌ *~~I will.~~* — cụt, "sẽ" cái gì? | ❌ |
+| Phủ định / hỏi có TỰ xử lý không? | ❌ phải thuê do | ✅ *She is not... / Is she...?* | ✅ | ✅ |
+
+Nhìn cột be: nó **lai giữa hai họ**. Về nghĩa và khả năng đứng một mình, be giống động từ thường. Về ngữ pháp (tự cõng not, tự đảo, không bao giờ thuê do), be xử sự như trợ động từ. Và còn một lý do "logic" nữa: trong câu *"She is tired"*, is là động từ **duy nhất** — nó chẳng "trợ giúp" cho động từ nào cả, vì làm gì có động từ nào khác mà giúp! Gọi nó là TRỢ động từ lúc đó là sai nghĩa chữ "trợ". Vì lai như vậy nên sách mới tách be thành họ riêng — đó chính là bảng 3 họ ở Phần 3.
 
 ## 🤔 Ngẫm (trả lời bằng lời của bạn)
 
