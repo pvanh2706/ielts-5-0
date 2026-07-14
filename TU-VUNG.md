@@ -21,3 +21,11 @@
 | breakfast | danh từ | bữa sáng | She did not eat **breakfast** yesterday morning. | kiểm tra buổi 3 |
 | swim | động từ | bơi | She can **swim** very well. | sau can thì giữ dạng gốc (kiểm tra buổi 3) |
 | visit | động từ | thăm, ghé thăm | Did he **visit** you last week? | quá khứ có quy tắc: visit**ed** (kiểm tra buổi 3) |
+| market | danh từ | chợ | I saw my friend at the **market** yesterday. | bài 05 |
+| garden | danh từ | vườn | He saw a bird in the **garden**. | bài 05 |
+| bread | danh từ | bánh mì | I ate **bread** this morning. | bài 05; không đếm được — không nói ~~a bread~~ |
+| company | danh từ | công ty | I went to the **company** yesterday. | bài 05; chú ý chính tả: com-pa-ny (lỗi #3) |
+| appointment | danh từ | cuộc hẹn (khám, gặp) | Your **appointment** is on Thursday. | bài nghe 02 |
+| dentist | danh từ | nha sĩ | I want to see the **dentist**. | bài nghe 02 |
+| free | tính từ | rảnh; miễn phí | The doctor is not **free** on Tuesday. | bài nghe 02; tính từ nên đi với be |
+| near | giới từ | gần | The clinic is **near** the big market. | bài nghe 02 |

@@ -26,6 +26,49 @@ Nói cách khác: **trong câu tiếng Anh, động từ chính là cái đồng
 | every day / every morning, usually, always | Hiện tại đơn | dạng gốc; riêng ngôi 3 số ít (he/she/it, my father...) thêm **-s/-es** |
 | yesterday, last night / last week, ... ago | Quá khứ đơn | thêm **-ed** (với động từ có quy tắc) |
 
+## 📖 Bổ sung (từ câu hỏi buổi 4) — Con tem HIỆN TẠI thật ra nói gì?
+
+*(Viết sau khi bạn hỏi: "She has breakfast at 7 this morning" — nếu bây giờ chưa tới 7 giờ, tức là chưa qua, sao không dùng "has"?)*
+
+Câu hỏi rất logic — và nó lộ ra một hiểu nhầm mà gần như người Việt nào cũng mắc:
+
+> **Tưởng rằng: tem "hiện tại" = chuyện xảy ra ở thời điểm bây giờ.**
+> **Sự thật: tem hiện tại đơn = chuyện ĐÚNG NÓI CHUNG — thói quen lặp lại, sự thật.**
+
+Nhìn lại các câu hiện tại đơn bạn đã gặp:
+
+- *She **has** breakfast at 7.* = sáng NÀO cô ấy CŨNG ăn lúc 7 giờ (thói quen).
+- *The course **costs** 140 dollars.* = khóa học giá 140 đô (sự thật chung).
+- *My father **works** in a small shop.* = nghề của bố (đúng lâu dài).
+
+Không câu nào kể về MỘT LẦN cụ thể cả. Đó chính là chìa khóa: **một sự việc cụ thể, xảy ra MỘT lần, chỉ có hai chỗ đứng trên trục thời gian** — hoặc nó **đã xảy ra** (tem quá khứ), hoặc nó **chưa xảy ra** (will). Tem hiện tại đơn không phải chỗ của nó:
+
+| Câu muốn nói gì? | Tem | Ví dụ |
+|---|---|---|
+| Thói quen / sự thật chung | hiện tại đơn (gốc, ngôi 3 thêm -s) | She **has** breakfast at 7 every day. |
+| Một lần cụ thể, ĐÃ xảy ra | quá khứ (-ed / biến hình) | She **had** breakfast at 7 this morning. |
+| Một lần cụ thể, CHƯA xảy ra | **will** + dạng gốc | She **will have** breakfast at 7 tomorrow. |
+
+Vậy quay lại câu hỏi của bạn: kể cả khi đồng hồ treo tường mới chỉ 6 giờ sáng và bữa sáng CHƯA diễn ra — thì "has" vẫn sai, vì lúc đó câu đúng phải là *"She **will have** breakfast at 7"*. Nghĩa là trong bài tập đó, "has" không có cửa nào đúng cả: sự việc một-lần thì chỉ được chọn giữa **had** (đã qua) và **will have** (chưa tới). Còn vì sao đáp án là "had"? Vì khi người ta KỂ một việc kèm mốc *"at 7 this morning"*, tình huống tự nhiên là kể lại chuyện đã xảy ra — muốn nói việc sắp tới, người Anh sẽ nói *"later this morning"*.
+
+Tiếng Việt thật ra cũng phân biệt y hệt, chỉ là bằng từ rời: *"Cô ấy ăn sáng lúc 7 giờ"* (nghe như thói quen) khác *"Sáng nay cô ấy **đã** ăn sáng lúc 7 giờ"* (một lần). Tiếng Anh khắc sự phân biệt đó vào con tem trên động từ.
+
+**Quy trình 2 bước nâng cấp:** bước 1 giờ có hai câu hỏi con — *(a) chuyện này là thói quen hay một lần?* → nếu một lần: *(b) đã qua hay chưa tới?*
+
+✍️ **Luyện nhanh** (đáp án ngay dưới, che lại mà làm):
+
+1. *I ______ (drink) coffee every morning.*
+2. *I ______ (drink) coffee at 6 this morning.* (bạn đang nói câu này vào buổi tối)
+3. *She ______ (visit) her grandmother next Sunday.*
+
+<details><summary>Đáp án</summary>
+
+1. **drink** — "every morning" = thói quen → tem hiện tại đơn.
+2. **drank** — một lần cụ thể, đã qua (nói vào buổi tối) → tem quá khứ; drink bất quy tắc → drank.
+3. **will visit** — một lần cụ thể, chưa tới → will + dạng gốc.
+
+</details>
+
 ## 📜 Đọc thêm — Vì sao hiện tại chỉ ngôi 3 mới thêm -s, còn quá khứ thì ai cũng chia như nhau?
 
 *(Viết thêm sau câu hỏi của bạn ở buổi 3. Không bắt buộc — đọc để thấy cái đuôi -s "vô lý" kia thật ra là một di tích.)*
